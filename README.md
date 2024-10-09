@@ -1,5 +1,7 @@
 # Laban Mutua
-I am Laban from Kenya, a statistician and data analyst with 2 years of experience in data manipulation and analysis. I am continually expanding my knowledge, through practice and training, in this rapidly growing field.  I possess data analysis expertise in Python, SQL, Microsoft Excel, and Power BI.
+## Statistician | Data Analyst | Business Analyst
+
+I am Laban from Kenya, a statistician and data|business analyst with 2 years of experience in data manipulation and analysis. I am continually expanding my knowledge, through practice and training, in this rapidly growing field.  I possess data analysis expertise in Python, SQL, Microsoft Excel, and Power BI.
 
 ## Skills and Tools 
 - 🐍Python
