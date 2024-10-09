@@ -24,7 +24,7 @@ I am Laban from Kenya, a statistician and data|business analyst with 2 years of 
 ### Statistician Intern
 ***Makueni County Government, Kenya | Mar 2023 - Mar 2024***
 
-- Improved own-source revenue collection by 18.66% through data cleaning and analysis for the Makueni Census for Business Establishments, aiding the mapping of businesses for revenue officers.
+- Improved own-source revenue collection by 18% through data cleaning and analysis for the Makueni Census for Business Establishments, aiding the mapping of businesses for revenue officers.
 - Facilitated revenue projections and contributed to the launch of the Makueni County Statistical Abstract 2023.
 - Supported climate change mitigation strategies by analyzing climate-related financing trends.
 - Conducted monitoring and evaluation for development projects and collaborated on the Makueni Energy Plan using KoboToolbox.
