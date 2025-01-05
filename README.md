@@ -23,6 +23,16 @@ I am Laban from Kenya, a statistician and data|business analyst with 2 years of 
 - Data Analyst with Python (Datacamp) - Jun 2024
 
 ## Experience
+### Data Analyst | Research Assistant
+***Buildher, Nairobi | Oct 2024 - Nov 2024***
+
+- Streamlined the data collection process by designing research questionnaires in Kobotoolbox and connecting them to tablets.
+- Ensured comprehensive representation of stakeholders by conducting interviews, focus group discussions, and surveys.
+- Enhanced data accuracy and completeness through cleaning and processing using Excel.
+- Identified key trends and challenges in the cabinetry industry via thematic analysis in Python, delivering actionable insights for curriculum development.
+- Developed compelling data visualizations in Power BI and Python, effectively communicating findings to stakeholders.
+- Achieved high response rates and informed training program recommendations by aligning data collection and analysis with research objectives.
+
 ### Statistician Intern
 ***Makueni County Government, Kenya | Mar 2023 - Mar 2024***
 
