@@ -8,6 +8,7 @@ I am Laban from Kenya, a statistician and data|business analyst with 2 years of 
 - 💻Excel
 - 📒SQL
 - 📊Power BI
+- 📈Tableau
 
 
 ## Projects
