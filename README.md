@@ -12,6 +12,7 @@ I am Laban from Kenya, a statistician and data|business analyst with 2 years of 
 
 
 ## Projects
+- [Supermarket Sales Analysis](https://github.com/LabanMutua/Supermarket-Sales-Analysis)
 - [E-commerce Data Analysis](https://github.com/LabanMutua/E-Commerce-Data-Analysis)
 
 ## Certifications
